@@ -1,7 +1,8 @@
-# AWS-sns-notification-to-slack-webhook
+**AWS-sns-notification-to-slack-webhook** 
  export the messages from sns notification to slack channel
 
-Serverless로 게임 서비스 구현하기
+SNS 알림 메세지를 Slack Webhook을 통해 알림받기
+
 [Go to english page](./Readme.en.md)
 =================================
 
