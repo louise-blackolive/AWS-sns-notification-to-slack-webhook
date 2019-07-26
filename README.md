@@ -1,8 +1,9 @@
-**AWS-sns-notification-to-slack-webhook** 
+#AWS-sns-notification-to-slack-webhook
+ ===
  export the messages from sns notification to slack channel
 
-SNS 알림 메세지를 Slack Webhook을 통해 알림받기
 
+SNS 알림 메세지를 Slack Webhook을 통해 알림받기
 [Go to english page](./Readme.en.md)
 =================================
 
