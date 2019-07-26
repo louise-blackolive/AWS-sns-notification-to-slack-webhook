@@ -19,7 +19,7 @@ CloudWatch Alarm 기능을 통해 특정 매트릭값에 부합 할 경우 Amazo
 전체 아키텍처 그림은 아래 다이어그림을 참조하십시오.
 
 <!--아키텍쳐 이미지 블라블라 -->
-![](media/image2.png)
+![](images/architecture.png)
 
 필수 준비 사항
 ==============
